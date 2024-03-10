@@ -13,5 +13,9 @@ This Python script allows you to manage your contacts like a digital diary.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your_username/digital-diary.git
+   git clone https://github.com/EJmpa/AI-ML.git
    ```
+## Usage
+
+Run the script using the following command:
+`python3 main.py` or `./main.py`
